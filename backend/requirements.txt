@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-pptx
+pdfminer.six
+pydantic
+python-multipart
