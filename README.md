@@ -1,4 +1,4 @@
-# 🎮 Lecture Battle AI
+# 🎮 Merlin
 
 🏆 3rd Place & Most Creative Award @ Leeds AI Hackathon 2025
 
